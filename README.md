@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Deriu/Deriu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Deriu/Deriu/f3acfaa2bbd28525c4c362b0150f0d1064364fac/snake.svg" alt="Snake animation" />
 
 ###
